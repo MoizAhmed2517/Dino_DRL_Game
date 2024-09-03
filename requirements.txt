@@ -1,0 +1,8 @@
+PyDirectInput
+mss
+matplotlib
+gymnasium
+opencv-python
+numpy
+stable-baselines3
+pytesseract
