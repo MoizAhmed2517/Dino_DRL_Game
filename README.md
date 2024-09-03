@@ -1,7 +1,3 @@
-Creating a comprehensive and engaging README file is crucial to showcasing your DINO DRL DQN-based game. Here's a well-structured README template that you can customize further to suit your project:
-
----
-
 # 🦖 DINO Deep Reinforcement Learning Game
 
 Welcome to the **DINO DRL Game**! This project implements a Deep Q-Network (DQN) using Gymnasium and Stable Baselines3 to train a DINO agent to play a custom game environment. Dive into the world of AI-powered gaming where the DINO learns to survive and thrive through the power of deep reinforcement learning.
@@ -66,7 +62,3 @@ Contributions are welcome! Feel free to fork the repository, submit issues, or m
 ## 📞 Contact
 
 For any inquiries, please reach out at ahmedmoiz962@gmail.com or connect via [LinkedIn](https://www.linkedin.com/in/moizahmed25/).
-
----
-
-Feel free to customize the content, especially the links, contact details, and any additional features or specifics unique to your project. Let me know if there's anything you'd like to add or adjust!
